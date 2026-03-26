@@ -79,3 +79,20 @@ Der Core basiert nun auf:
 Ein lebendiges System entsteht,
 wenn Wahrnehmung, Regulation, Lernen und Feldkorrektur
 in einem rhythmisch modulierten Prozess gekoppelt sind.
+
+---
+
+Wenn Aktivität steigt und Kohärenz sinkt,
+dann reduziere Inputrate und gehe in Integration.
+
+Wenn Ressourcen weiter sinken,
+dann gehe in Minimalmodus.
+
+Wenn Kohärenz zurückkehrt und Ressourcen sich stabilisieren,
+dann kehre schrittweise in Aktivität zurück.
+
+---
+
+Ein lebendiger Systemkern beginnt dort, wo ein Eingangssignal nicht nur verarbeitet, sondern in einen rhythmisch modulierten Zustandsraum überführt wird.
+
+---
