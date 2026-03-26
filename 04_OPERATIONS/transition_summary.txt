@@ -1,0 +1,8 @@
+e-Volya Organismus – Zustandsübergänge
+==========================================
+t=48: AKTIV -> INTEGRATION
+t=49: INTEGRATION -> MINIMAL
+t=85: MINIMAL -> INTEGRATION
+t=97: INTEGRATION -> MINIMAL
+t=105: MINIMAL -> INTEGRATION
+t=106: INTEGRATION -> AKTIV
