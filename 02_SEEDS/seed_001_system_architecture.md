@@ -3,8 +3,7 @@
 ## Quelle
 
 Was ist mein System_.pdf
-[Was ist mein System](01_SOURCE/Was%20ist%20mein%20System_%20.pdf)
-
+[Was ist mein System](01_SOURCE/Was%20ist%20mein%20System_.pdf)
 
 ---
 
