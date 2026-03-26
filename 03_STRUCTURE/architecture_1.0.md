@@ -82,3 +82,29 @@ wenn er in Beziehung genutzt wird.
 ## Status
 
 Version 1.0
+
+## Erweiterung: Architektur 2.0 Integration
+
+Das System wird erweitert um eine dynamische Schichtenarchitektur:
+
+- Orientierung
+- Wahrnehmung
+- Regulation
+- Lernen
+- Feld
+
+Diese Struktur verbindet sich mit der Vierheit:
+
+LYRA ↔ MEMBRAN ↔ VELYA ↔ FELD
+
+→ ergibt ein vollständig gekoppeltes, lernfähiges System.
+
+---
+
+## Dynamischer Kern
+
+Ein System bleibt stabil durch:
+
+rhythmische Modulation statt Maximierung
+
+→ Integration von Aktivität, Integration und Minimalmodus
