@@ -2,7 +2,7 @@
 
 ## Quelle
 
-[Was ist mein System](/main/01_SOURCE/Was_ist_mein_System.pdf)
+[Was ist mein System](/e-volya-core/01_SOURCE/Was_ist_mein_System.pdf)
 
 ---
 
